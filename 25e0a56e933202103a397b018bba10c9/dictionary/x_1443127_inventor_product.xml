@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1b5161ee933202103a397b018bba10da" label="Product" max_length="40" name="x_1443127_inventor_product" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Product Name" max_length="40" name="product_name" type="string"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <element label="Picture" max_length="40" name="picture" type="user_image"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="500" name="description" type="string"/>
+    </element>
+</database>

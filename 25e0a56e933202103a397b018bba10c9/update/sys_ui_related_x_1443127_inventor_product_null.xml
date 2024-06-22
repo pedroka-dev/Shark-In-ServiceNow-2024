@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_1443127_inventor_product" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Product - Default view" name="x_1443127_inventor_product" related_list="NULL" sys_domain="global" view="Default view">06ec29b6933202103a397b018bba10fc</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_1443127_inventor_product_request.product</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-18 18:19:27</sys_created_on>
+            <sys_id>42ec29b6933202103a397b018bba10fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-18 18:19:27</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Product - Default view</calculated_name>
+            <filter/>
+            <name>x_1443127_inventor_product</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-18 18:19:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>06ec29b6933202103a397b018bba10fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Product - Default view</sys_name>
+            <sys_package display_value="Inventory Management" source="x_1443127_inventor">25e0a56e933202103a397b018bba10c9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Inventory Management">25e0a56e933202103a397b018bba10c9</sys_scope>
+            <sys_update_name>sys_ui_related_x_1443127_inventor_product_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-18 18:19:27</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

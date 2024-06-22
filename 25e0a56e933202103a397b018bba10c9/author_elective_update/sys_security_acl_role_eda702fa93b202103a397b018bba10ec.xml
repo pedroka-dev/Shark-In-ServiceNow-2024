@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 20:17:27</sys_created_on>
+        <sys_id>eda702fa93b202103a397b018bba10ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1443127_inventor.product_user</sys_name>
+        <sys_package display_value="Inventory Management" source="x_1443127_inventor">25e0a56e933202103a397b018bba10c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Inventory Management">25e0a56e933202103a397b018bba10c9</sys_scope>
+        <sys_security_acl display_value="">7ca70e7a93b202103a397b018bba101f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_eda702fa93b202103a397b018bba10ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 20:17:27</sys_updated_on>
+        <sys_user_role display_value="x_1443127_inventor.product_user" name="x_1443127_inventor.product_user">406571f2937202103a397b018bba1052</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Inventory Management">25e0a56e933202103a397b018bba10c9</application>
+        <file_path/>
+        <instance_id>cc0648acdb867d9402d9172913961964</instance_id>
+        <instance_name>dev190306</instance_name>
+        <name>sys_security_acl_role_eda702fa93b202103a397b018bba10ec</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-18 20:17:27</sys_created_on><sys_id>eda702fa93b202103a397b018bba10ec</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_1443127_inventor.product_user</sys_name><sys_package display_value="Inventory Management" source="x_1443127_inventor">25e0a56e933202103a397b018bba10c9</sys_package><sys_policy/><sys_scope display_value="Inventory Management">25e0a56e933202103a397b018bba10c9</sys_scope><sys_security_acl display_value="">7ca70e7a93b202103a397b018bba101f</sys_security_acl><sys_update_name>sys_security_acl_role_eda702fa93b202103a397b018bba10ec</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-18 20:17:27</sys_updated_on><sys_user_role display_value="x_1443127_inventor.product_user" name="x_1443127_inventor.product_user">406571f2937202103a397b018bba1052</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>676194582</payload_hash>
+        <record_name>.x_1443127_inventor.product_user</record_name>
+        <reverted_from/>
+        <source>e5e029ae933202103a397b018bba10c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 20:17:27</sys_created_on>
+        <sys_id>dee74aba93b202103a397b018bba1047</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1902cff4c850000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 20:17:27</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>d2e74abac1b20210c041d6af1a118547</update_guid>
+        <update_guid_history>d2e74abac1b20210c041d6af1a118547:676194582</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_1443127_inventor.product_user">b04a0ebe93b202103a397b018bba1086</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 20:27:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>585f7176c4d14ecea7610c2cd6cf2144</sys_id>
+        <sys_metadata>eda702fa93b202103a397b018bba10ec</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1443127_inventor.product_user</sys_name>
+        <sys_package display_value="Inventory Management" source="x_1443127_inventor">25e0a56e933202103a397b018bba10c9</sys_package>
+        <sys_parent display_value="x_1443127_inventor_product">7ca70e7a93b202103a397b018bba101f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Inventory Management">25e0a56e933202103a397b018bba10c9</sys_scope>
+        <sys_scope_delete display_value="">17697018eb2746889dcba73a792bcb89</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_eda702fa93b202103a397b018bba10ec</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_eda702fa93b202103a397b018bba10ec">dee74aba93b202103a397b018bba1047</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 20:27:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
