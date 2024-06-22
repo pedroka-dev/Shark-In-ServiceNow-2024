@@ -2,7 +2,7 @@
 Project part of the Aoop Cloud Solution's Shark in ServiceNow 2024.
 A ServiceNow app for managing Products and products request, where users on the Analyst group can create a new Request and users on the Supervisor group might accept it or not. Implements important concepts like Tables, ACLs, Flow, Portal list and Portal Record
 
-To run this, you need to [load into a running instance of ServiceNow](https://www.youtube.com/watch?v=gj1i_VAD6FE).
+To run this, you need to [import into a running instance of ServiceNow](https://www.youtube.com/watch?v=gj1i_VAD6FE). However, I'm not sure if anyone have the permission to do so.
 
 
 ![image](https://github.com/pedro-ca/Shark-In-ServiceNow-2024/assets/50923316/b41d279e-2ebe-4e93-89af-7600662a7b10)
