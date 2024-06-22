@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Inventory Management - Container 1</name>
+        <order>1</order>
+        <semantic_tag/>
+        <sp_page display_value="inventory_management">0a5c68a3933202103a397b018bba10df</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-20 21:32:50</sys_created_on>
+        <sys_id>5e5ca0e3933202103a397b018bba1096</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inventory Management - Container 1</sys_name>
+        <sys_package display_value="Inventory Management" source="x_1443127_inventor">25e0a56e933202103a397b018bba10c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Inventory Management">25e0a56e933202103a397b018bba10c9</sys_scope>
+        <sys_update_name>sp_container_5e5ca0e3933202103a397b018bba1096</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-20 21:32:50</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Inventory Management">25e0a56e933202103a397b018bba10c9</application>
+        <file_path/>
+        <instance_id>cc0648acdb867d9402d9172913961964</instance_id>
+        <instance_name>dev190306</instance_name>
+        <name>sp_container_5e5ca0e3933202103a397b018bba1096</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Inventory Management - Container 1</name><order>1</order><semantic_tag/><sp_page display_value="inventory_management">0a5c68a3933202103a397b018bba10df</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-20 21:32:50</sys_created_on><sys_id>5e5ca0e3933202103a397b018bba1096</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Inventory Management - Container 1</sys_name><sys_package display_value="Inventory Management" source="x_1443127_inventor">25e0a56e933202103a397b018bba10c9</sys_package><sys_policy/><sys_scope display_value="Inventory Management">25e0a56e933202103a397b018bba10c9</sys_scope><sys_update_name>sp_container_5e5ca0e3933202103a397b018bba1096</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-20 21:32:50</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-1463370692</payload_hash>
+        <record_name>Inventory Management - Container 1</record_name>
+        <reverted_from/>
+        <source>e5e029ae933202103a397b018bba10c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-20 21:32:50</sys_created_on>
+        <sys_id>165ca0e3933202103a397b018bba1099</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19037910ae70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-20 21:32:50</sys_updated_on>
+        <type>Container</type>
+        <update_guid>1a5ca0e39c3202103ebd16988720ce98</update_guid>
+        <update_guid_history>1a5ca0e39c3202103ebd16988720ce98:-1463370692</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Inventory Management - Container 1">b4cc6ca3933202103a397b018bba10e7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-20 21:34:40</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>03be2b3e3e8a448b80109a2537cb8071</sys_id>
+        <sys_metadata>5e5ca0e3933202103a397b018bba1096</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inventory Management - Container 1</sys_name>
+        <sys_package display_value="Inventory Management" source="x_1443127_inventor">25e0a56e933202103a397b018bba10c9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Inventory Management">25e0a56e933202103a397b018bba10c9</sys_scope>
+        <sys_scope_delete display_value="">17697018eb2746889dcba73a792bcb89</sys_scope_delete>
+        <sys_update_name>sp_container_5e5ca0e3933202103a397b018bba1096</sys_update_name>
+        <sys_update_version display_value="sp_container_5e5ca0e3933202103a397b018bba1096">165ca0e3933202103a397b018bba1099</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-20 21:34:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

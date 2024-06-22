@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>60</auth_code_lifespan>
+        <auth_url/>
+        <certificate_url/>
+        <client_id>e3b56a3ba9b2021036988258df47265d</client_id>
+        <client_secret>﷞﷟﷒6a259f6a93a202103a397b018bba1089﷬﷔1﷬﷭EbBEUsFejX9fQxKqJrC_sg==cgFww_rUffdcrZk3HiJTYnGtT7SiCHd31MIJVgMU2e9EUt8bdzOw3mRQxW9WNfL43l42oYvdBsk=﷮﷯</client_secret>
+        <client_uuid>a3b56a3b93b202103a397b018bba105d</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>password</default_grant_type>
+        <id_token_lifespan>86400</id_token_lifespan>
+        <jwt_provider/>
+        <login_url/>
+        <logo_url/>
+        <message_signature_lifespan>60</message_signature_lifespan>
+        <mobile_client>false</mobile_client>
+        <name>Githuhb</name>
+        <oauth_api_script/>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url/>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <refresh_token_url/>
+        <restricted_binding>false</restricted_binding>
+        <revoke_token_url/>
+        <salt/>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-22 01:02:40</sys_created_on>
+        <sys_id>27b56a3b93b202103a397b018bba105d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Githuhb</sys_name>
+        <sys_package display_value="Inventory Management" source="x_1443127_inventor">25e0a56e933202103a397b018bba10c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Inventory Management">25e0a56e933202103a397b018bba10c9</sys_scope>
+        <sys_update_name>oauth_entity_27b56a3b93b202103a397b018bba105d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-22 01:02:40</sys_updated_on>
+        <token_url/>
+        <type>client</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+</record_update>

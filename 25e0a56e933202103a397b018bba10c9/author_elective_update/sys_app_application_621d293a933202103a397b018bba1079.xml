@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 18:21:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>621d293a933202103a397b018bba1079</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Inventory Management</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Inventory Management" source="x_1443127_inventor">25e0a56e933202103a397b018bba10c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Inventory Management">25e0a56e933202103a397b018bba10c9</sys_scope>
+        <sys_update_name>sys_app_application_621d293a933202103a397b018bba1079</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 18:42:47</sys_updated_on>
+        <title>Inventory Management</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Inventory Management">25e0a56e933202103a397b018bba10c9</application>
+        <file_path/>
+        <instance_id>cc0648acdb867d9402d9172913961964</instance_id>
+        <instance_name>dev190306</instance_name>
+        <name>sys_app_application_621d293a933202103a397b018bba1079</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles>admin</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-18 18:21:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>621d293a933202103a397b018bba1079</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Inventory Management</sys_name><sys_overrides/><sys_package display_value="Inventory Management" source="x_1443127_inventor">25e0a56e933202103a397b018bba10c9</sys_package><sys_policy/><sys_scope display_value="Inventory Management">25e0a56e933202103a397b018bba10c9</sys_scope><sys_update_name>sys_app_application_621d293a933202103a397b018bba1079</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-18 18:42:47</sys_updated_on><title>Inventory Management</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-623985715</payload_hash>
+        <record_name>Inventory Management</record_name>
+        <reverted_from/>
+        <source>e5e029ae933202103a397b018bba10c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 18:42:47</sys_created_on>
+        <sys_id>7332f17e933202103a397b018bba10eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1902ca8a3c20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 18:42:47</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>3b32f17eac3202109eb3ebe8deafc9ea</update_guid>
+        <update_guid_history>3b32f17eac3202109eb3ebe8deafc9ea:-623985715,26a0b97ec9320210348570c6bf947d3f:938057689,ed4dadf6c83202104a758aaa3484b54d:-577481693</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Inventory Management">56b2b132937202103a397b018bba1009</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 18:44:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>0a0e482f2b554b119f461fe5d6b14771</sys_id>
+        <sys_metadata>621d293a933202103a397b018bba1079</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inventory Management</sys_name>
+        <sys_package display_value="Inventory Management" source="x_1443127_inventor">25e0a56e933202103a397b018bba10c9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Inventory Management">25e0a56e933202103a397b018bba10c9</sys_scope>
+        <sys_scope_delete display_value="">17697018eb2746889dcba73a792bcb89</sys_scope_delete>
+        <sys_update_name>sys_app_application_621d293a933202103a397b018bba1079</sys_update_name>
+        <sys_update_version display_value="sys_app_application_621d293a933202103a397b018bba1079">7332f17e933202103a397b018bba10eb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 18:44:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
